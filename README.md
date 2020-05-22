@@ -1,2 +1,2 @@
 # Python_Algorithms
-This repositry contains most of the algorithm in python language
+This repositry contains most of the algorithm I know in python language
